@@ -1,3 +1,3 @@
 # pylog
 
-fintra arquivo de log
+filtra arquivo de log
