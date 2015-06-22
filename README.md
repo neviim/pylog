@@ -1,0 +1,2 @@
+# pylog
+Filtrando arquivo log
